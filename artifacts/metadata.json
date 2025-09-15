@@ -1,0 +1,47 @@
+{
+  "sex": [
+    "F",
+    "M"
+  ],
+  "schoolsup": [
+    "no",
+    "yes"
+  ],
+  "famsup": [
+    "no",
+    "yes"
+  ],
+  "paid": [
+    "no",
+    "yes"
+  ],
+  "activities": [
+    "no",
+    "yes"
+  ],
+  "higher": [
+    "no",
+    "yes"
+  ],
+  "internet": [
+    "no",
+    "yes"
+  ],
+  "romantic": [
+    "no",
+    "yes"
+  ],
+  "numeric": [
+    "age",
+    "studytime",
+    "failures",
+    "absences",
+    "G1",
+    "G2"
+  ],
+  "target_classes": [
+    "Average",
+    "Good",
+    "Poor"
+  ]
+}
